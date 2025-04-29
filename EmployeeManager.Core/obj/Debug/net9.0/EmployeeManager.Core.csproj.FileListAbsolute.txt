@@ -12,3 +12,4 @@ C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.
 C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.pdb
 C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.genruntimeconfig.cache
 C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\ref\EmployeeManager.Core.dll
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.sourcelink.json

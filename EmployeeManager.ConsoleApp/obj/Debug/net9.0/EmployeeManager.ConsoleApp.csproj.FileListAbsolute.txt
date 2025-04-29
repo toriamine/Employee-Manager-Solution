@@ -30,3 +30,4 @@ C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.ConsoleApp\bin\Debug
 C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.ConsoleApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.ConsoleApp\bin\Debug\net9.0\Npgsql.dll
 C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.ConsoleApp\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.ConsoleApp\obj\Debug\net9.0\EmployeeManager.ConsoleApp.sourcelink.json

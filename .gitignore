@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+out/
+
+# Other files
+*.log
+*.DS_Store
+
+# Entity Framework
+Migrations/
+
+# System files
+Thumbs.db
+desktop.ini

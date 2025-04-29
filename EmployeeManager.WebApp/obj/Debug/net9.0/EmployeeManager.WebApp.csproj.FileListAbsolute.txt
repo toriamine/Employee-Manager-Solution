@@ -113,4 +113,4 @@ C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.WebApp\obj\Debug\net
 C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.WebApp\obj\Debug\net9.0\EmployeeManager.WebApp.pdb
 C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.WebApp\obj\Debug\net9.0\EmployeeManager.WebApp.genruntimeconfig.cache
 C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.WebApp\obj\Debug\net9.0\ref\EmployeeManager.WebApp.dll
-C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.WebApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.WebApp\obj\Debug\net9.0\EmployeeManager.WebApp.sourcelink.json
