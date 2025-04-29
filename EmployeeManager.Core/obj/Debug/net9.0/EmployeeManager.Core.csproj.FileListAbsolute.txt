@@ -1,0 +1,14 @@
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\bin\Debug\net9.0\EmployeeManager.Core.deps.json
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\bin\Debug\net9.0\EmployeeManager.Core.runtimeconfig.json
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\bin\Debug\net9.0\EmployeeManager.Core.dll
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\bin\Debug\net9.0\EmployeeManager.Core.pdb
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.csproj.AssemblyReference.cache
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.AssemblyInfoInputs.cache
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.AssemblyInfo.cs
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.dll
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\refint\EmployeeManager.Core.dll
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.pdb
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\EmployeeManager.Core.genruntimeconfig.cache
+C:\Users\Viken\source\repos\EmployeeManager\EmployeeManager.Core\obj\Debug\net9.0\ref\EmployeeManager.Core.dll

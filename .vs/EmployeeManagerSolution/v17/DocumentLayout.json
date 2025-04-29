@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|c:\\users\\viken\\source\\repos\\employeemanager\\employeemanager.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|solutionrelative:employeemanager.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|c:\\users\\viken\\source\\repos\\employeemanager\\employeemanager.webapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|solutionrelative:employeemanager.webapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|c:\\users\\viken\\source\\repos\\employeemanager\\employeemanager.webapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|solutionrelative:employeemanager.webapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|c:\\users\\viken\\source\\repos\\employeemanager\\employeemanager.webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|solutionrelative:employeemanager.webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|c:\\users\\viken\\source\\repos\\employeemanager\\employeemanager.webapp\\employeemanager.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20334F34-95AB-4B9C-8123-38D2D6F166C5}|EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj|solutionrelative:employeemanager.webapp\\employeemanager.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE7B5E-9F64-4E75-B0AC-9ECEF225089F}|EmployeeManager.Tests\\EmployeeManager.Tests.csproj|c:\\users\\viken\\source\\repos\\employeemanager\\employeemanager.tests\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEE7B5E-9F64-4E75-B0AC-9ECEF225089F}|EmployeeManager.Tests\\EmployeeManager.Tests.csproj|solutionrelative:employeemanager.tests\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047C9D99-35EF-4484-BDA3-B285E09A40B1}|EmployeeManager.Core\\EmployeeManager.Core.csproj|c:\\users\\viken\\source\\repos\\employeemanager\\employeemanager.core\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047C9D99-35EF-4484-BDA3-B285E09A40B1}|EmployeeManager.Core\\EmployeeManager.Core.csproj|solutionrelative:employeemanager.core\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047C9D99-35EF-4484-BDA3-B285E09A40B1}|EmployeeManager.Core\\EmployeeManager.Core.csproj|c:\\users\\viken\\source\\repos\\employeemanager\\employeemanager.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047C9D99-35EF-4484-BDA3-B285E09A40B1}|EmployeeManager.Core\\EmployeeManager.Core.csproj|solutionrelative:employeemanager.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.Tests\\EmployeeServiceTests.cs",
+              "RelativeDocumentMoniker": "EmployeeManager.Tests\\EmployeeServiceTests.cs",
+              "ToolTip": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.Tests\\EmployeeServiceTests.cs",
+              "RelativeToolTip": "EmployeeManager.Tests\\EmployeeServiceTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T12:52:08.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeManager.WebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj",
+              "RelativeDocumentMoniker": "EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj",
+              "ToolTip": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj",
+              "RelativeToolTip": "EmployeeManager.WebApp\\EmployeeManager.WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T07:07:32.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManager.WebApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManager.WebApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAawHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T07:37:44.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.Core\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManager.Core\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.Core\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManager.Core\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:48:24.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManager.WebApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "EmployeeManager.WebApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T08:17:19.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManager.WebApp\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManager.WebApp\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:11:57.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManager.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.WebApp\\Program.cs",
+              "RelativeToolTip": "EmployeeManager.WebApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:12:25.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManager.Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Viken\\source\\repos\\EmployeeManager\\EmployeeManager.Core\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManager.Core\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:01:29.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
